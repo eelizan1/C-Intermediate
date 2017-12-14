@@ -1,0 +1,9 @@
+C:\Users\enric\Documents\C-Intermediate\Classes\Classes\bin\Debug\netcoreapp1.1\Classes.deps.json
+C:\Users\enric\Documents\C-Intermediate\Classes\Classes\bin\Debug\netcoreapp1.1\Classes.runtimeconfig.json
+C:\Users\enric\Documents\C-Intermediate\Classes\Classes\bin\Debug\netcoreapp1.1\Classes.runtimeconfig.dev.json
+C:\Users\enric\Documents\C-Intermediate\Classes\Classes\bin\Debug\netcoreapp1.1\Classes.dll
+C:\Users\enric\Documents\C-Intermediate\Classes\Classes\bin\Debug\netcoreapp1.1\Classes.pdb
+C:\Users\enric\Documents\C-Intermediate\Classes\Classes\obj\Debug\netcoreapp1.1\Classes.csprojResolveAssemblyReference.cache
+C:\Users\enric\Documents\C-Intermediate\Classes\Classes\obj\Debug\netcoreapp1.1\Classes.AssemblyInfo.cs
+C:\Users\enric\Documents\C-Intermediate\Classes\Classes\obj\Debug\netcoreapp1.1\Classes.dll
+C:\Users\enric\Documents\C-Intermediate\Classes\Classes\obj\Debug\netcoreapp1.1\Classes.pdb
