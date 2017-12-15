@@ -1,0 +1,9 @@
+C:\Users\enric\Documents\C-Intermediate\Methods\Methods\bin\Debug\netcoreapp1.1\Methods.deps.json
+C:\Users\enric\Documents\C-Intermediate\Methods\Methods\bin\Debug\netcoreapp1.1\Methods.runtimeconfig.json
+C:\Users\enric\Documents\C-Intermediate\Methods\Methods\bin\Debug\netcoreapp1.1\Methods.runtimeconfig.dev.json
+C:\Users\enric\Documents\C-Intermediate\Methods\Methods\bin\Debug\netcoreapp1.1\Methods.dll
+C:\Users\enric\Documents\C-Intermediate\Methods\Methods\bin\Debug\netcoreapp1.1\Methods.pdb
+C:\Users\enric\Documents\C-Intermediate\Methods\Methods\obj\Debug\netcoreapp1.1\Methods.csprojResolveAssemblyReference.cache
+C:\Users\enric\Documents\C-Intermediate\Methods\Methods\obj\Debug\netcoreapp1.1\Methods.AssemblyInfo.cs
+C:\Users\enric\Documents\C-Intermediate\Methods\Methods\obj\Debug\netcoreapp1.1\Methods.dll
+C:\Users\enric\Documents\C-Intermediate\Methods\Methods\obj\Debug\netcoreapp1.1\Methods.pdb
