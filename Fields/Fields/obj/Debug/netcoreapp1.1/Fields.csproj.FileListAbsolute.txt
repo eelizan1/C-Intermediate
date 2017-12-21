@@ -1,0 +1,9 @@
+C:\Users\enric\documents\visual studio 2017\Projects\Fields\Fields\bin\Debug\netcoreapp1.1\Fields.deps.json
+C:\Users\enric\documents\visual studio 2017\Projects\Fields\Fields\bin\Debug\netcoreapp1.1\Fields.runtimeconfig.json
+C:\Users\enric\documents\visual studio 2017\Projects\Fields\Fields\bin\Debug\netcoreapp1.1\Fields.runtimeconfig.dev.json
+C:\Users\enric\documents\visual studio 2017\Projects\Fields\Fields\bin\Debug\netcoreapp1.1\Fields.dll
+C:\Users\enric\documents\visual studio 2017\Projects\Fields\Fields\bin\Debug\netcoreapp1.1\Fields.pdb
+C:\Users\enric\documents\visual studio 2017\Projects\Fields\Fields\obj\Debug\netcoreapp1.1\Fields.csprojResolveAssemblyReference.cache
+C:\Users\enric\documents\visual studio 2017\Projects\Fields\Fields\obj\Debug\netcoreapp1.1\Fields.AssemblyInfo.cs
+C:\Users\enric\documents\visual studio 2017\Projects\Fields\Fields\obj\Debug\netcoreapp1.1\Fields.dll
+C:\Users\enric\documents\visual studio 2017\Projects\Fields\Fields\obj\Debug\netcoreapp1.1\Fields.pdb

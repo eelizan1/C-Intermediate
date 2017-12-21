@@ -1,0 +1,9 @@
+c:\users\enric\documents\visual studio 2017\Projects\AccessModifiers\AccessModifiers\bin\Debug\netcoreapp1.1\AccessModifiers.deps.json
+c:\users\enric\documents\visual studio 2017\Projects\AccessModifiers\AccessModifiers\bin\Debug\netcoreapp1.1\AccessModifiers.runtimeconfig.json
+c:\users\enric\documents\visual studio 2017\Projects\AccessModifiers\AccessModifiers\bin\Debug\netcoreapp1.1\AccessModifiers.runtimeconfig.dev.json
+c:\users\enric\documents\visual studio 2017\Projects\AccessModifiers\AccessModifiers\bin\Debug\netcoreapp1.1\AccessModifiers.dll
+c:\users\enric\documents\visual studio 2017\Projects\AccessModifiers\AccessModifiers\bin\Debug\netcoreapp1.1\AccessModifiers.pdb
+c:\users\enric\documents\visual studio 2017\Projects\AccessModifiers\AccessModifiers\obj\Debug\netcoreapp1.1\AccessModifiers.csprojResolveAssemblyReference.cache
+c:\users\enric\documents\visual studio 2017\Projects\AccessModifiers\AccessModifiers\obj\Debug\netcoreapp1.1\AccessModifiers.AssemblyInfo.cs
+c:\users\enric\documents\visual studio 2017\Projects\AccessModifiers\AccessModifiers\obj\Debug\netcoreapp1.1\AccessModifiers.dll
+c:\users\enric\documents\visual studio 2017\Projects\AccessModifiers\AccessModifiers\obj\Debug\netcoreapp1.1\AccessModifiers.pdb

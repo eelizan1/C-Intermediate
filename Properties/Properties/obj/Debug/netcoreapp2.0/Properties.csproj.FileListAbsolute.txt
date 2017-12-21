@@ -1,0 +1,11 @@
+C:\Users\enric\Documents\C-Intermediate\Properties\Properties\bin\Debug\netcoreapp2.0\Properties.deps.json
+C:\Users\enric\Documents\C-Intermediate\Properties\Properties\bin\Debug\netcoreapp2.0\Properties.runtimeconfig.json
+C:\Users\enric\Documents\C-Intermediate\Properties\Properties\bin\Debug\netcoreapp2.0\Properties.runtimeconfig.dev.json
+C:\Users\enric\Documents\C-Intermediate\Properties\Properties\bin\Debug\netcoreapp2.0\Properties.dll
+C:\Users\enric\Documents\C-Intermediate\Properties\Properties\bin\Debug\netcoreapp2.0\Properties.pdb
+C:\Users\enric\Documents\C-Intermediate\Properties\Properties\obj\Debug\netcoreapp2.0\Properties.csprojResolveAssemblyReference.cache
+C:\Users\enric\Documents\C-Intermediate\Properties\Properties\obj\Debug\netcoreapp2.0\Properties.csproj.CoreCompileInputs.cache
+C:\Users\enric\Documents\C-Intermediate\Properties\Properties\obj\Debug\netcoreapp2.0\Properties.AssemblyInfoInputs.cache
+C:\Users\enric\Documents\C-Intermediate\Properties\Properties\obj\Debug\netcoreapp2.0\Properties.AssemblyInfo.cs
+C:\Users\enric\Documents\C-Intermediate\Properties\Properties\obj\Debug\netcoreapp2.0\Properties.dll
+C:\Users\enric\Documents\C-Intermediate\Properties\Properties\obj\Debug\netcoreapp2.0\Properties.pdb
