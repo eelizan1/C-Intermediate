@@ -1,0 +1,31 @@
+﻿Class Coupling
+
+A measure of how interconnected classes and subsystems are
+
+Tightly Coupled - Where many classes are dependent on each other
+Loose Coupled - (Ideal software) Want to minimize changes in our application
+				When we change a class, we want that change to be isolated
+				Don't want that change to affect other parts of the application
+
+How to Design a Loose Couples App? 
+	1. Encapsulation
+	2. Relationship between classes 
+	3. Interfaces
+
+Relationships Types
+	1. Inheritance
+	2. Composition
+-------------------------------------------------------------------------------------
+Inheritance
+
+- A kind of relationship between two classes that allows one to inherit code from another
+- referred to as 'Is-A'
+- Example: A car is a vehical
+
+Benefits: 
+	Code re-use
+	Polymorphic behavior
+
+Parent/Base Class provides code that the child/Dervived class can use
+
+

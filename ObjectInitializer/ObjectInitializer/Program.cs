@@ -13,6 +13,8 @@ namespace ObjectInitializer
     {
         // Object Initializer - A syntax for quickly initialising an object without the need to call one of its constructors
         // avoids creating multiple constructors
+
+        // Default or parameterless constructor will be called
         static void Main(string[] args)
         {
             var person = new Person()

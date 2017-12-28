@@ -1,0 +1,20 @@
+﻿What is Composition? 
+
+- A kind of relationship between two classes that allows one to contain the other
+- Has-a relationship
+- Example: Car has an Engine
+
+Benefits:
+
+- Code re-use
+- Flexibility 
+- A means to loose-coupling design for applications
+
+Example:
+
+DbMigrator class requires logging class
+Installer class requires logging class 
+
+Logging is comming between these two classes 
+
+This type of relationship is called composition 

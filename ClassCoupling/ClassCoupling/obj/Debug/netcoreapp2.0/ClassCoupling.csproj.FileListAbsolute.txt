@@ -1,0 +1,11 @@
+C:\Users\enric\Documents\C-Intermediate\ClassCoupling\ClassCoupling\bin\Debug\netcoreapp2.0\ClassCoupling.deps.json
+C:\Users\enric\Documents\C-Intermediate\ClassCoupling\ClassCoupling\bin\Debug\netcoreapp2.0\ClassCoupling.runtimeconfig.json
+C:\Users\enric\Documents\C-Intermediate\ClassCoupling\ClassCoupling\bin\Debug\netcoreapp2.0\ClassCoupling.runtimeconfig.dev.json
+C:\Users\enric\Documents\C-Intermediate\ClassCoupling\ClassCoupling\bin\Debug\netcoreapp2.0\ClassCoupling.dll
+C:\Users\enric\Documents\C-Intermediate\ClassCoupling\ClassCoupling\bin\Debug\netcoreapp2.0\ClassCoupling.pdb
+C:\Users\enric\Documents\C-Intermediate\ClassCoupling\ClassCoupling\obj\Debug\netcoreapp2.0\ClassCoupling.csprojResolveAssemblyReference.cache
+C:\Users\enric\Documents\C-Intermediate\ClassCoupling\ClassCoupling\obj\Debug\netcoreapp2.0\ClassCoupling.csproj.CoreCompileInputs.cache
+C:\Users\enric\Documents\C-Intermediate\ClassCoupling\ClassCoupling\obj\Debug\netcoreapp2.0\ClassCoupling.AssemblyInfoInputs.cache
+C:\Users\enric\Documents\C-Intermediate\ClassCoupling\ClassCoupling\obj\Debug\netcoreapp2.0\ClassCoupling.AssemblyInfo.cs
+C:\Users\enric\Documents\C-Intermediate\ClassCoupling\ClassCoupling\obj\Debug\netcoreapp2.0\ClassCoupling.dll
+C:\Users\enric\Documents\C-Intermediate\ClassCoupling\ClassCoupling\obj\Debug\netcoreapp2.0\ClassCoupling.pdb
