@@ -1,0 +1,11 @@
+C:\Users\enric\Documents\C-Intermediate\AccessModifiers2\AccessModifiers2\bin\Debug\netcoreapp2.0\AccessModifiers2.deps.json
+C:\Users\enric\Documents\C-Intermediate\AccessModifiers2\AccessModifiers2\bin\Debug\netcoreapp2.0\AccessModifiers2.runtimeconfig.json
+C:\Users\enric\Documents\C-Intermediate\AccessModifiers2\AccessModifiers2\bin\Debug\netcoreapp2.0\AccessModifiers2.runtimeconfig.dev.json
+C:\Users\enric\Documents\C-Intermediate\AccessModifiers2\AccessModifiers2\bin\Debug\netcoreapp2.0\AccessModifiers2.dll
+C:\Users\enric\Documents\C-Intermediate\AccessModifiers2\AccessModifiers2\bin\Debug\netcoreapp2.0\AccessModifiers2.pdb
+C:\Users\enric\Documents\C-Intermediate\AccessModifiers2\AccessModifiers2\obj\Debug\netcoreapp2.0\AccessModifiers2.csprojResolveAssemblyReference.cache
+C:\Users\enric\Documents\C-Intermediate\AccessModifiers2\AccessModifiers2\obj\Debug\netcoreapp2.0\AccessModifiers2.csproj.CoreCompileInputs.cache
+C:\Users\enric\Documents\C-Intermediate\AccessModifiers2\AccessModifiers2\obj\Debug\netcoreapp2.0\AccessModifiers2.AssemblyInfoInputs.cache
+C:\Users\enric\Documents\C-Intermediate\AccessModifiers2\AccessModifiers2\obj\Debug\netcoreapp2.0\AccessModifiers2.AssemblyInfo.cs
+C:\Users\enric\Documents\C-Intermediate\AccessModifiers2\AccessModifiers2\obj\Debug\netcoreapp2.0\AccessModifiers2.dll
+C:\Users\enric\Documents\C-Intermediate\AccessModifiers2\AccessModifiers2\obj\Debug\netcoreapp2.0\AccessModifiers2.pdb

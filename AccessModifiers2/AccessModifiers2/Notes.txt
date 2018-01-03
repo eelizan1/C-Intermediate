@@ -1,0 +1,30 @@
+﻿Access Modifiers
+
+Black box metaphor - We dont know whats in this box
+There is limited visibility 
+
+* The more a class reveals about its internals or its implementation 
+the more risky it becomes when we go to change that class because there could be other parts of the system that
+rely that implementation 
+
+* The more we reveal about that class and its members the more we raise that other parts of the code will be dependent on those members
+  Which will lead to more coupling
+
+Goal: Limit the visibility from the outside abd make our class look like a black box
+
+Public Interface - The outside interaction
+
+MODIFIERS: 
+
+1. Public - Accessible from everywhere
+2. Private - Only accessible from the class
+3. Protected - Accessible only from the class and its derived classes (avoid if you can and use protected)
+	You're revealing the implementation detail of a class any of its subclasses
+4. Internal - Accessible only from the same assembly. Often use with the classes not their members.
+	Internal class within a class. Must be in the implementation detail for domain of customers so inside this domain
+	its ok for every other class to see this class but not outside the domain.
+
+	How to implement: Create a seperate class library where you declare the internal class. Inside that class library we will see
+	this class
+5. Protected Internal - Accessible only from the same assembly or any derived classes.
+	
